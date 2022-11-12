@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asad-Leghari
-- 👀 I’m interested in web development and cyber security
+- 👀 I do web development and cyber security
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me twitter @AsadLeghari
