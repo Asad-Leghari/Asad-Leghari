@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asad-Leghari
-- 👀 I do Data Science, Web Development and cyber security
+- 👀 I do Data Engineering, Web Development and cyber security
 - 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on Data Science & Web Development
+- 💞️ I’m looking to collaborate on Data Engineering & Web Development
 - 📫 How to reach me twitter @AsadLeghari
 
 <!---
