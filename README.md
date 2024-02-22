@@ -10,7 +10,7 @@
   <thead>
     <tr>
       <th>Me IRL</th>
-      <th>Joke</th>
+      <th>dev meme</th>
       <th>Me @ Night</th>
     </tr>
   </thead>
@@ -18,6 +18,12 @@
     <tr>
       <td>
         <img src="https://user-images.githubusercontent.com/92238941/232341313-0afb44cd-800d-44bb-b75a-de4c0edada18.gif" alt="none">
+      </td>
+      <td>
+        <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+      </td>
+      <td>
+        <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
       </td>
     </tr>
   </tbody>
@@ -37,7 +43,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=asad-leghari&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asad-leghari&icon=0&color=0)](https://visitcount.itsvg.in)
