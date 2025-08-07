@@ -1,6 +1,6 @@
 # Hi, I am Asad :)
 # 💫 About Me:
-🔭 I’m currently working on Open Source<br>🌱 I’m currently learning AI/ML<br>🤝 I’m looking for help with Contributions<br>👯 I’m looking to collaborate on Web Dev / AI/ML<br>💬 Ask me about Full Stack, Data Engineering, Data Science, Cloud<br>⚡ Fun fact I am also a Chemical Engineering Student (Final Semester)
+🔭 I’m currently working on Open Source<br>🌱 I’m currently learning AI/ML<br>🤝 I’m looking for help with Contributions<br>👯 I’m looking to collaborate on Web Dev / AI/ML<br>💬 Ask me about Full Stack, Data Engineering, Data Science, Cloud<br>⚡ Fun fact I am also a Chemical Engineering
 
 
 ## 🌐 Socials:
